@@ -10,6 +10,7 @@ You can hack some cameras. Just type one of these magical rows given below.  Enj
    
 
     inurl:”/view/view.shtml”
+    
     inurl:”/view/index.shtml”
     inurl:”/view.shtml”
     inurl:”ViewerFrame?Mode=” //this page is in the form of functions used in CCTV
